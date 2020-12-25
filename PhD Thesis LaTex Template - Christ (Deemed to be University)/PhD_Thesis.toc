@@ -1,0 +1,28 @@
+\contentsline {chapter}{APPROVAL OF THESIS}{i}{dummy.3}%
+\contentsline {chapter}{DECLARATION}{ii}{dummy.4}%
+\contentsline {chapter}{CERTIFICATE}{iii}{dummy.5}%
+\contentsline {chapter}{ACKNOWLEDGEMENT}{iv}{dummy.6}%
+\vspace {2em}
+\contentsline {chapter}{ABSTRACT}{vi}{dummy.7}%
+\vspace {0em}
+\contentsline {chapter}{TABLE OF CONTENTS}{vi}{dummy.8}%
+\contentsline {chapter}{LIST OF TABLES}{ix}{dummy.10}%
+\contentsline {chapter}{LIST OF FIGURES}{x}{dummy.12}%
+\contentsline {chapter}{GLOSSARY}{xi}{dummy.14}%
+\contentsline {chapter}{ABBREVIATIONS}{xii}{dummy.15}%
+\contentsline {chapter}{PHYSICAL CONSTANTS}{xiii}{dummy.17}%
+\contentsline {chapter}{SYMBOLS}{xiv}{dummy.19}%
+\contentsline {chapter}{\numberline {1}INTRODUCTION}{2}{chapter.21}%
+\contentsline {section}{\numberline {1.1}BACKGROUND}{2}{section.22}%
+\contentsline {section}{\numberline {1.2}NEED OF THIS RESEARCH}{2}{section.23}%
+\contentsline {chapter}{\numberline {2}\uppercase {Design and Development}}{4}{chapter.24}%
+\contentsline {section}{\numberline {2.1}Sample Figures}{4}{section.25}%
+\contentsline {section}{\numberline {2.2}Citations}{5}{section.27}%
+\contentsline {section}{\numberline {2.3}Sample Table}{5}{section.28}%
+\vspace {2em}
+\contentsline {chapter}{Bibliography}{6}{dummy.30}%
+\contentsline {chapter}{PUBLICATIONS AND PRESENTATIONS}{8}{dummy.32}%
+\vspace {2em}
+\contentsline {chapter}{Appendix A. Title}{9}{appendix*.45}%
+\contentsline {chapter}{Appendix B. Title}{10}{appendix*.46}%
+\contentsline {chapter}{Index}{11}{section*.47}%
