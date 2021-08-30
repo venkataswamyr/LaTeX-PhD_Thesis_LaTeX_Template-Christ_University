@@ -1,6 +1,6 @@
 # PhD Thesis LaTeX Template - Christ (Deemed to be University)
 
-# DOI
+### DOI
 
 [![DOI](https://zenodo.org/badge/324433101.svg)](https://zenodo.org/badge/latestdoi/324433101)
 
